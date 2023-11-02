@@ -1,7 +1,13 @@
 # Data-Visualization_Challenge
+
 1. Compare the performance of drug of interest, Capomulin, against the other treatment regimens.
 2. Generate all of the tables and figures needed for the technical report of the clinical study. 
 3. Write top-level summary of the study results.
+
+### Instructions:
+1. Download Pymaceuticals folder.
+2. Open pymaceuticals_final file.
+3. Run all cells.
 
 ### Prepare the Data
 Run and merge DataFrames into a single DataFrame.
